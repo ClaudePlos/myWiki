@@ -2,7 +2,7 @@
 
 
 ###Node (angularjs with server)
-New folder (name project) and add:
+New folder (name project) and add in
 package.json
 ```sh
 {
@@ -47,7 +47,7 @@ package.json
   }
 }
 ```
-in command line npm install and add srrver.js
+in command line npm install and add in folder project secound file name: server.js
 ```sh
 var http = require('http'),
     fs = require('fs');
