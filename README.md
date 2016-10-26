@@ -2,7 +2,7 @@
 
 
 ###Node (angularjs with server)
-New folder and add:
+New folder (name project) and add:
 package.json
 ```sh
 {
