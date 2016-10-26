@@ -75,7 +75,7 @@ tsc greeter.ts
 ```
 more info: [TS](https://www.typescriptlang.org/docs/tutorial.html)
 
-###TypeSript
+###GitHub
 .gitconfig
 add in home directory project file directory and add path to file no send to git
 ```sh
