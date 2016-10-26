@@ -74,3 +74,10 @@ In your editor, type the following JavaScript code in greeter.ts
 tsc greeter.ts   
 ```
 more info: [TS](https://www.typescriptlang.org/docs/tutorial.html)
+
+###TypeSript
+.gitconfig
+add in home directory project file directory and add path to file no send to git
+```sh
+/node_modules/*
+```
