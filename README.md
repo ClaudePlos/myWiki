@@ -81,3 +81,8 @@ add in home directory project file directory and add path to file no send to git
 ```sh
 /node_modules/*
 ```
+
+
+###AngularJS
+ngController
+https://docs.angularjs.org/api/ng/directive/ngController
