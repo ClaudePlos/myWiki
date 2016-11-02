@@ -86,3 +86,6 @@ add in home directory project file directory and add path to file no send to git
 ###AngularJS
 ngController
 https://docs.angularjs.org/api/ng/directive/ngController
+ 
+ng-repeat --> loop 
+ng-model --> MVVM, 2 way data binding
