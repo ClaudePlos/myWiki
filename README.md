@@ -90,3 +90,7 @@ https://docs.angularjs.org/api/ng/directive/ngController
 ng-repeat --> loop 
 
 ng-model --> MVVM, 2 way data binding
+
+
+
+###Java
