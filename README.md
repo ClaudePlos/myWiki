@@ -95,3 +95,7 @@ ng-model --> MVVM, 2 way data binding
 
 ###Java
 stream :) Java8
+
+
+###CSS
+z-index
