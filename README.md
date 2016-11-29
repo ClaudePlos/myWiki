@@ -99,3 +99,8 @@ stream :) Java8
 
 ###CSS
 z-index
+
+
+
+###Refaktoring
+###LEGACY CODE - EFEKTYWNA REWITALIZACJA
