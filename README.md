@@ -104,3 +104,12 @@ z-index
 
 ###Refaktoring
 ###LEGACY CODE - EFEKTYWNA REWITALIZACJA
+
+
+
+HBOX ---
+
+VBOX<br>
+|<br>
+|<br>
+|<br>
