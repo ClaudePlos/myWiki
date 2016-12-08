@@ -100,6 +100,10 @@ stream :) Java8
 ###CSS
 z-index
 
+###ORACLE
+Tnsnames.org -> FAILOVER_MODE = (TYPE=SELECT)(METHOD=BASIC).... 
+
+
 ###FinTech
 
 ###Refaktoring
