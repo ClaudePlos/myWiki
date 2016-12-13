@@ -105,6 +105,11 @@ for ( StanZywionychMMRapRozDTO rr : stanZywionychRapRoz )
             .findFirst().get();
   }
 }
+
+or 
+
+boolean check = stanZywionychRapRoz2.stream().anyMatch( p -> p.getGz().equals(rr.getGz()));
+
 ```                     
                       
                       
