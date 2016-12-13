@@ -95,7 +95,7 @@ ng-model --> MVVM, 2 way data binding
 
 ###Java
 stream :) Java8
-
+```
 for ( StanZywionychMMRapRozDTO rr : stanZywionychRapRoz )
 {
   if( stanZywionychRapRoz2.stream().anyMatch( p -> p.getGz().equals(rr.getGz())) )
@@ -105,7 +105,7 @@ for ( StanZywionychMMRapRozDTO rr : stanZywionychRapRoz )
             .findFirst().get();
   }
 }
-                      
+```                     
                       
                       
 
