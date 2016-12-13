@@ -96,6 +96,18 @@ ng-model --> MVVM, 2 way data binding
 ###Java
 stream :) Java8
 
+for ( StanZywionychMMRapRozDTO rr : stanZywionychRapRoz )
+{
+  if( stanZywionychRapRoz2.stream().anyMatch( p -> p.getGz().equals(rr.getGz())) )
+  {
+      StanZywionychMMRapRozDTO firstMatchedName = stanZywionychRapRoz2.stream()
+            .filter((s) -> s.getGz().equals(rr.getGz() ))
+            .findFirst().get();
+  }
+}
+                      
+                      
+                      
 
 ###CSS
 z-index
