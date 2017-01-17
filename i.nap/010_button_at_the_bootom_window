@@ -1,5 +1,5 @@
 Jak ustawić akcje prtzycisków na dole.
 Są dwie tabele:
 NDEF_AKCJE_PROCESOW
-NDEF_PRZPISANIA_AKCJI
+NDEF_PRZYPISANIA_AKCJI
 Ważny jest etap_procesu_kod, dla danego jest wyszukiwana jakie akcje mają być wyświetlane z tabeli NDEF_AKCEJ_PROCESOW
