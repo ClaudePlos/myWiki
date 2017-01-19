@@ -129,7 +129,7 @@ Tnsnames.org -> FAILOVER_MODE = (TYPE=SELECT)(METHOD=BASIC)....
 
 
 
-HBOX ---
+HBOX -----
 
 VBOX<br>
 |<br>
