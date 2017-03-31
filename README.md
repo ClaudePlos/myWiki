@@ -147,3 +147,5 @@ VBOX<br>
 ###https://pl.todoist.com
 
 Quizlet
+
+DeepMind Ai
