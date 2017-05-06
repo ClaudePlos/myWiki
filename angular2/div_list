@@ -1,0 +1,9 @@
+<div class="col-md-4">
+        <md-select formControlName="department_code" [placeholder]="'global.departmentCode' | translate" >
+          <md-option *ngFor="let item of departments"
+                     [value]="item.code">{{item.name}}
+          </md-option>
+        </md-select>
+        dep:
+        {{departments | json }}
+      </div>
