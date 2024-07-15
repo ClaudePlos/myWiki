@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T13:27:28.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7_YLf2G4ERrfzmHEoyaS" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T13:32:47.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wo4BDgp8ZX7c8CV6mVFU" version="24.6.2" type="github">
   <diagram name="Strona-1" id="fkA9MaTeWYb2Ou95fFQS">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -64,17 +64,13 @@
         <mxCell id="58RTIar0NO0fO0vXAha4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.286;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-11" target="58RTIar0NO0fO0vXAha4-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="1194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="58RTIar0NO0fO0vXAha4-24" value="Baza danych" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-128.png" vertex="1" parent="1">
           <mxGeometry x="490" y="1130" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="58RTIar0NO0fO0vXAha4-25" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="940" width="320" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="58RTIar0NO0fO0vXAha4-26" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="58RTIar0NO0fO0vXAha4-25">
-          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="58RTIar0NO0fO0vXAha4-27" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="58RTIar0NO0fO0vXAha4-25">
-          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="58RTIar0NO0fO0vXAha4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-28" target="58RTIar0NO0fO0vXAha4-24">
           <mxGeometry relative="1" as="geometry" />
@@ -85,8 +81,20 @@
         <mxCell id="58RTIar0NO0fO0vXAha4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-28" target="58RTIar0NO0fO0vXAha4-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="58RTIar0NO0fO0vXAha4-31" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Woman_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="230" y="1030" width="80" height="80" as="geometry" />
+        <mxCell id="58RTIar0NO0fO0vXAha4-31" value="Pracownik" style="image;html=1;image=img/lib/clip_art/people/Worker_Woman_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="160" y="1010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-32" target="58RTIar0NO0fO0vXAha4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-32" value="Strona Web do konfiguracji" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1250" width="137.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-34" value="Strona Web Raportowanie" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1130" width="152.5" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-36" value="Kierownik" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="160" y="1154" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
