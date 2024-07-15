@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T13:32:47.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wo4BDgp8ZX7c8CV6mVFU" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T13:40:08.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="02nB9xmlJUPWXVrm1MeG" version="24.6.2" type="github">
   <diagram name="Strona-1" id="fkA9MaTeWYb2Ou95fFQS">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -81,20 +81,55 @@
         <mxCell id="58RTIar0NO0fO0vXAha4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-28" target="58RTIar0NO0fO0vXAha4-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="58RTIar0NO0fO0vXAha4-31" value="Pracownik" style="image;html=1;image=img/lib/clip_art/people/Worker_Woman_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="160" y="1010" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="58RTIar0NO0fO0vXAha4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-32" target="58RTIar0NO0fO0vXAha4-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58RTIar0NO0fO0vXAha4-32" value="Strona Web do konfiguracji" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" vertex="1" parent="1">
           <mxGeometry x="270" y="1250" width="137.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="58RTIar0NO0fO0vXAha4-34" value="Strona Web Raportowanie" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" vertex="1" parent="1">
+        <mxCell id="58RTIar0NO0fO0vXAha4-34" value="Strona Web Analiza danych /&amp;nbsp;&lt;div&gt;Raportowanie&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" vertex="1" parent="1">
           <mxGeometry x="760" y="1130" width="152.5" height="122" as="geometry" />
         </mxCell>
         <mxCell id="58RTIar0NO0fO0vXAha4-36" value="Kierownik" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="160" y="1154" width="80" height="80" as="geometry" />
+          <mxGeometry x="100" y="1190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-37" value="Klient" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="558" y="950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-38" target="58RTIar0NO0fO0vXAha4-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-38" value="Pracownik&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="120" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-40" target="58RTIar0NO0fO0vXAha4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-40" value="Controlling&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="950" y="950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-37" target="58RTIar0NO0fO0vXAha4-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.308;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-37" target="58RTIar0NO0fO0vXAha4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-36" target="58RTIar0NO0fO0vXAha4-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.022;entryY=0.709;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-36" target="58RTIar0NO0fO0vXAha4-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58RTIar0NO0fO0vXAha4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-36" target="58RTIar0NO0fO0vXAha4-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="1240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="1230" />
+              <mxPoint x="210" y="1390" />
+              <mxPoint x="700" y="1390" />
+              <mxPoint x="700" y="1248" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
