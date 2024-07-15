@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T09:48:02.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-4Ar6fvdiIry-9-WFaX9" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T09:48:28.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="glF8gNsVpEwneYthKYBG" version="24.6.2" type="github">
   <diagram name="Strona-1" id="fkA9MaTeWYb2Ou95fFQS">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="58RTIar0NO0fO0vXAha4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-20" target="58RTIar0NO0fO0vXAha4-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="58RTIar0NO0fO0vXAha4-20" value="LLM Model" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cognitive_Services.svg;" vertex="1" parent="1">
+        <mxCell id="58RTIar0NO0fO0vXAha4-20" value="LLM Model / Comtegra" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cognitive_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="530" y="610" width="168" height="100.8" as="geometry" />
         </mxCell>
         <mxCell id="58RTIar0NO0fO0vXAha4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.286;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="58RTIar0NO0fO0vXAha4-11" target="58RTIar0NO0fO0vXAha4-20">
