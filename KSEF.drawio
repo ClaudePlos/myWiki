@@ -41,7 +41,7 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L-AL70zZ9bdG62g0QL5k-6" value="KSEF, bramka&amp;nbsp;&lt;div&gt;ministerstwa finansów&amp;nbsp;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+        <mxCell id="L-AL70zZ9bdG62g0QL5k-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Bramka KSeF&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Ministerstwo Finansów&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
           <mxGeometry x="130" y="133" width="123.14" height="160" as="geometry" />
         </mxCell>
         <mxCell id="L-AL70zZ9bdG62g0QL5k-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L-AL70zZ9bdG62g0QL5k-10">
@@ -69,7 +69,7 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L-AL70zZ9bdG62g0QL5k-22" value="&amp;nbsp; Diagram wdrożenia KSEF" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+        <mxCell id="L-AL70zZ9bdG62g0QL5k-22" value="&amp;nbsp; Diagram wdrożenia KSeF" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="30" y="20" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L-AL70zZ9bdG62g0QL5k-23" value="." style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
