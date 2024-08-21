@@ -69,8 +69,8 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L-AL70zZ9bdG62g0QL5k-22" value="Diagram wdrożenia KSEF" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="141.57" y="20" width="100" height="80" as="geometry" />
+        <mxCell id="L-AL70zZ9bdG62g0QL5k-22" value="&amp;nbsp; Diagram wdrożenia KSEF" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L-AL70zZ9bdG62g0QL5k-23" value="." style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1470" y="810" width="100" height="40" as="geometry" />
