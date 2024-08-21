@@ -41,7 +41,7 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L-AL70zZ9bdG62g0QL5k-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Bramka KSeF&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Ministerstwo Finansów&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+        <mxCell id="L-AL70zZ9bdG62g0QL5k-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Gateway KSeF&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Ministerstwo Finansów&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
           <mxGeometry x="130" y="133" width="123.14" height="160" as="geometry" />
         </mxCell>
         <mxCell id="L-AL70zZ9bdG62g0QL5k-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L-AL70zZ9bdG62g0QL5k-10">
@@ -49,7 +49,7 @@
             <mxPoint x="970" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L-AL70zZ9bdG62g0QL5k-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;SUNCODE&lt;/b&gt;&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" vertex="1" parent="1">
+        <mxCell id="L-AL70zZ9bdG62g0QL5k-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Workflow&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;SUNCODE&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" vertex="1" parent="1">
           <mxGeometry x="1130" y="540" width="212.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="L-AL70zZ9bdG62g0QL5k-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.489;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L-AL70zZ9bdG62g0QL5k-1" target="L-AL70zZ9bdG62g0QL5k-10">
@@ -87,7 +87,7 @@
         <mxCell id="L-AL70zZ9bdG62g0QL5k-29" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="940" y="591.4" width="70" height="67.2" as="geometry" />
         </mxCell>
-        <mxCell id="L-AL70zZ9bdG62g0QL5k-31" value="Baza danych" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="L-AL70zZ9bdG62g0QL5k-31" value="DATA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="552" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
